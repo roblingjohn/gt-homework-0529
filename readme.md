@@ -2,6 +2,8 @@
 
 ## Description
 
+This page has information regarding the services provided by Horiseon. 
+
 ## Installation
 
 ## Usage
