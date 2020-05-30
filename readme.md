@@ -5,7 +5,7 @@
 This page has been refactored to meet accessability and SEO standards.
 
 ## Installation
-
+    
 1. pull repo to local machine
 2. open index.html
 
